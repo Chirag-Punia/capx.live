@@ -70,7 +70,7 @@ Create `.env` file in backend directory:
 PORT=5000
 MONGODB_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
-STOCK_API_URL=your_stock_api_url
+FINNHUB_API_KEY=apiKey
 ```
 
 4. Start the application
