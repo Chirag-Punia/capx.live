@@ -45,8 +45,6 @@ A full-stack application for tracking stock portfolios with real-time price upda
 - PUT `/api/stocks/:id` - Update stock
 - DELETE `/api/stocks/:id` - Delete stock
 
-### Portfolio
-- GET `/api/portfolio/summary` - Get portfolio summary
 
 ## Getting Started
 
@@ -152,10 +150,4 @@ DELETE /api/stocks/:id
 Authorization: Bearer {token}
 ```
 
-### Portfolio
 
-#### Get Portfolio Summary
-```http
-GET /api/portfolio/summary
-Authorization: Bearer {token}
-```
