@@ -25,15 +25,12 @@ A full-stack application for tracking stock portfolios with real-time price upda
 │   ├── middleware/     # Auth middleware
 │   ├── models/         # MongoDB schemas
 │   ├── routes/         # API routes
-│   ├── utils/          # Helper functions
 │   └── server.js       # Express server
 ├── src/
 │   ├── components/     # React components
 │   ├── context/        # React context
-│   ├── hooks/          # Custom hooks
 │   ├── pages/          # Page components
 │   ├── services/       # API services
-│   └── utils/          # Helper functions
 ```
 
 ## API Endpoints
